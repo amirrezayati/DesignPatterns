@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DesignPatternsTutorials/1.0.0": {
+        "dependencies": {
+          "DesignPatternsTutorials.Creational.FactoryMethod": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatternsTutorials.dll": {}
+        }
+      },
+      "DesignPatternsTutorials.Creational.FactoryMethod/1.0.0": {
+        "runtime": {
+          "DesignPatternsTutorials.Creational.FactoryMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatternsTutorials/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternsTutorials.Creational.FactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

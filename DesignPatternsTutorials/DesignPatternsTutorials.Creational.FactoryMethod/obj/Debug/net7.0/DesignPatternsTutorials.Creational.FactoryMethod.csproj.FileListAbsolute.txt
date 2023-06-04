@@ -1,0 +1,12 @@
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\bin\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.deps.json
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\bin\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\bin\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.csproj.AssemblyReference.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.AssemblyInfoInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.AssemblyInfo.cs
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.csproj.CoreCompileInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\refint\DesignPatternsTutorials.Creational.FactoryMethod.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\ref\DesignPatternsTutorials.Creational.FactoryMethod.dll
