@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteProduct;
+﻿using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteProduct;
 
 namespace DesignPatternsTutorials.Creational.FactoryMethod
 {

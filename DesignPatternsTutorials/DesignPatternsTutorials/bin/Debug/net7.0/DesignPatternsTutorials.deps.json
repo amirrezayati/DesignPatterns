@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v7.0": {
       "DesignPatternsTutorials/1.0.0": {
         "dependencies": {
+          "DesignPatternsTutorials.Creational.AbstractFactory": "1.0.0",
           "DesignPatternsTutorials.Creational.FactoryMethod": "1.0.0"
         },
         "runtime": {
           "DesignPatternsTutorials.dll": {}
+        }
+      },
+      "DesignPatternsTutorials.Creational.AbstractFactory/1.0.0": {
+        "runtime": {
+          "DesignPatternsTutorials.Creational.AbstractFactory.dll": {}
         }
       },
       "DesignPatternsTutorials.Creational.FactoryMethod/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "DesignPatternsTutorials/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternsTutorials.Creational.AbstractFactory/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

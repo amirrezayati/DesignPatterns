@@ -1,0 +1,12 @@
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\bin\Debug\net7.0\DesignPatternsTutorials.Creational.AbstractFactory.deps.json
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\bin\Debug\net7.0\DesignPatternsTutorials.Creational.AbstractFactory.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\bin\Debug\net7.0\DesignPatternsTutorials.Creational.AbstractFactory.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\obj\Debug\net7.0\DesignPatternsTutorials.Creational.AbstractFactory.csproj.AssemblyReference.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\obj\Debug\net7.0\DesignPatternsTutorials.Creational.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\obj\Debug\net7.0\DesignPatternsTutorials.Creational.AbstractFactory.AssemblyInfoInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\obj\Debug\net7.0\DesignPatternsTutorials.Creational.AbstractFactory.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\obj\Debug\net7.0\DesignPatternsTutorials.Creational.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\obj\Debug\net7.0\DesignPatternsTutorials.Creational.AbstractFactory.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\obj\Debug\net7.0\refint\DesignPatternsTutorials.Creational.AbstractFactory.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\obj\Debug\net7.0\DesignPatternsTutorials.Creational.AbstractFactory.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.AbstractFactory\obj\Debug\net7.0\ref\DesignPatternsTutorials.Creational.AbstractFactory.dll

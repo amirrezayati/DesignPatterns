@@ -10,3 +10,15 @@ E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\refint\DesignPatternsTutorials.Creational.FactoryMethod.dll
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.pdb
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\ref\DesignPatternsTutorials.Creational.FactoryMethod.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\bin\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.deps.json
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\bin\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\bin\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.csproj.AssemblyReference.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.AssemblyInfoInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\refint\DesignPatternsTutorials.Creational.FactoryMethod.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\DesignPatternsTutorials.Creational.FactoryMethod.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.FactoryMethod\obj\Debug\net7.0\ref\DesignPatternsTutorials.Creational.FactoryMethod.dll
