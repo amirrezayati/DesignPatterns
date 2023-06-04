@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Creational.FactoryMethod", "DesignPatternsTutorials.Creational.FactoryMethod\DesignPatternsTutorials.Creational.FactoryMethod.csproj", "{EB15BFDC-6BE5-487B-8E91-C862B234991D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Creational.AbstractFactory", "DesignPatternsTutorials.Creational.AbstractFactory\DesignPatternsTutorials.Creational.AbstractFactory.csproj", "{10A401AF-1C94-4808-99EF-7D8C710EF9B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EB15BFDC-6BE5-487B-8E91-C862B234991D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB15BFDC-6BE5-487B-8E91-C862B234991D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB15BFDC-6BE5-487B-8E91-C862B234991D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A401AF-1C94-4808-99EF-7D8C710EF9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A401AF-1C94-4808-99EF-7D8C710EF9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A401AF-1C94-4808-99EF-7D8C710EF9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A401AF-1C94-4808-99EF-7D8C710EF9B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
