@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials", "DesignPatternsTutorials\DesignPatternsTutorials.csproj", "{15E03E82-CAD3-40E1-8341-4469DADAA52B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials", "DesignPatternsTutorials\DesignPatternsTutorials.csproj", "{15E03E82-CAD3-40E1-8341-4469DADAA52B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Creational.FactoryMethod", "DesignPatternsTutorials.Creational.FactoryMethod\DesignPatternsTutorials.Creational.FactoryMethod.csproj", "{EB15BFDC-6BE5-487B-8E91-C862B234991D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Creational.FactoryMethod", "DesignPatternsTutorials.Creational.FactoryMethod\DesignPatternsTutorials.Creational.FactoryMethod.csproj", "{EB15BFDC-6BE5-487B-8E91-C862B234991D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Creational.AbstractFactory", "DesignPatternsTutorials.Creational.AbstractFactory\DesignPatternsTutorials.Creational.AbstractFactory.csproj", "{10A401AF-1C94-4808-99EF-7D8C710EF9B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Creational.AbstractFactory", "DesignPatternsTutorials.Creational.AbstractFactory\DesignPatternsTutorials.Creational.AbstractFactory.csproj", "{10A401AF-1C94-4808-99EF-7D8C710EF9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Creational.Builder", "DesignPatternsTutorials.Creational.Builder\DesignPatternsTutorials.Creational.Builder.csproj", "{440AB370-8BA7-4881-82E7-C5B9D64BF049}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{10A401AF-1C94-4808-99EF-7D8C710EF9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10A401AF-1C94-4808-99EF-7D8C710EF9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10A401AF-1C94-4808-99EF-7D8C710EF9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{440AB370-8BA7-4881-82E7-C5B9D64BF049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440AB370-8BA7-4881-82E7-C5B9D64BF049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440AB370-8BA7-4881-82E7-C5B9D64BF049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440AB370-8BA7-4881-82E7-C5B9D64BF049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

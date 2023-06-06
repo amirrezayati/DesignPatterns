@@ -36,3 +36,5 @@ C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\obj\Deb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\obj\Debug\net7.0\DesignPatternsTutorials.pdb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\obj\Debug\net7.0\DesignPatternsTutorials.genruntimeconfig.cache
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\obj\Debug\net7.0\ref\DesignPatternsTutorials.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.pdb

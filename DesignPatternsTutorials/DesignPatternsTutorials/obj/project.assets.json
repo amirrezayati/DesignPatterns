@@ -12,6 +12,16 @@
           "bin/placeholder/DesignPatternsTutorials.Creational.AbstractFactory.dll": {}
         }
       },
+      "DesignPatternsTutorials.Creational.Builder/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsTutorials.Creational.Builder.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsTutorials.Creational.Builder.dll": {}
+        }
+      },
       "DesignPatternsTutorials.Creational.FactoryMethod/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -30,6 +40,11 @@
       "path": "../DesignPatternsTutorials.Creational.AbstractFactory/DesignPatternsTutorials.Creational.AbstractFactory.csproj",
       "msbuildProject": "../DesignPatternsTutorials.Creational.AbstractFactory/DesignPatternsTutorials.Creational.AbstractFactory.csproj"
     },
+    "DesignPatternsTutorials.Creational.Builder/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsTutorials.Creational.Builder/DesignPatternsTutorials.Creational.Builder.csproj",
+      "msbuildProject": "../DesignPatternsTutorials.Creational.Builder/DesignPatternsTutorials.Creational.Builder.csproj"
+    },
     "DesignPatternsTutorials.Creational.FactoryMethod/1.0.0": {
       "type": "project",
       "path": "../DesignPatternsTutorials.Creational.FactoryMethod/DesignPatternsTutorials.Creational.FactoryMethod.csproj",
@@ -39,6 +54,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "DesignPatternsTutorials.Creational.AbstractFactory >= 1.0.0",
+      "DesignPatternsTutorials.Creational.Builder >= 1.0.0",
       "DesignPatternsTutorials.Creational.FactoryMethod >= 1.0.0"
     ]
   },
@@ -78,6 +94,9 @@
           "projectReferences": {
             "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj": {
               "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj"
+            },
+            "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj": {
+              "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj"
             },
             "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj": {
               "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj"
