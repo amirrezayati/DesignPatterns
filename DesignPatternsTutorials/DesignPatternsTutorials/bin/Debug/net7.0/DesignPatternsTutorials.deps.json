@@ -10,7 +10,8 @@
         "dependencies": {
           "DesignPatternsTutorials.Creational.AbstractFactory": "1.0.0",
           "DesignPatternsTutorials.Creational.Builder": "1.0.0",
-          "DesignPatternsTutorials.Creational.FactoryMethod": "1.0.0"
+          "DesignPatternsTutorials.Creational.FactoryMethod": "1.0.0",
+          "DesignPatternsTutorials.Creational.Singleton": "1.0.0"
         },
         "runtime": {
           "DesignPatternsTutorials.dll": {}
@@ -29,6 +30,11 @@
       "DesignPatternsTutorials.Creational.FactoryMethod/1.0.0": {
         "runtime": {
           "DesignPatternsTutorials.Creational.FactoryMethod.dll": {}
+        }
+      },
+      "DesignPatternsTutorials.Creational.Singleton/1.0.0": {
+        "runtime": {
+          "DesignPatternsTutorials.Creational.Singleton.dll": {}
         }
       }
     }
@@ -50,6 +56,11 @@
       "sha512": ""
     },
     "DesignPatternsTutorials.Creational.FactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternsTutorials.Creational.Singleton/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

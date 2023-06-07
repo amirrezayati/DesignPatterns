@@ -7,6 +7,7 @@ using DesignPatternsTutorials.Creational.Builder.ProductBuilder;
 using DesignPatternsTutorials.Creational.FactoryMethod;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteCreator;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteProduct;
+using DesignPatternsTutorials.Creational.Singleton;
 
 #region [- Factory Method -]
 Console.WriteLine("Factory Method!");
@@ -54,8 +55,28 @@ var product3 = productBuilder
     .WithName("Laptop")
     .WithBrand("Asus")
     .WithPrice(20000)
-    .Build(); 
+    .Build();
+Console.WriteLine($"{product3.Name}     {product3.Brand}     {product3.Price}");
 #endregion
 
-Console.WriteLine($"{product3.Name}     {product3.Brand}     {product3.Price}");
+#region [- Singleton -]
+Console.WriteLine("Singleton!");
+Console.WriteLine("----------------------------------------------------------");
+
+// implement LoadBalancer 
+LoadBalancer loadBalancer1 = LoadBalancer.GetLoadBalancer();
+LoadBalancer loadBalancer2 = LoadBalancer.GetLoadBalancer();
+LoadBalancer loadBalancer3 = LoadBalancer.GetLoadBalancer();
+LoadBalancer loadBalancer4 = LoadBalancer.GetLoadBalancer();
+
+if (loadBalancer1 == loadBalancer2 && loadBalancer2 == loadBalancer3 && loadBalancer3 == loadBalancer4)
+    Console.WriteLine("Servers has Same Instance");
+
+LoadBalancer loadBalancer = LoadBalancer.GetLoadBalancer();
+for (int i = 0; i < 15; i++)
+{
+    Console.WriteLine("Request to: {0}", loadBalancer.NextServer.Name);
+}
+
+#endregion
 Console.ReadKey();

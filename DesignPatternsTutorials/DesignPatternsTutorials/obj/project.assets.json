@@ -31,6 +31,16 @@
         "runtime": {
           "bin/placeholder/DesignPatternsTutorials.Creational.FactoryMethod.dll": {}
         }
+      },
+      "DesignPatternsTutorials.Creational.Singleton/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsTutorials.Creational.Singleton.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsTutorials.Creational.Singleton.dll": {}
+        }
       }
     }
   },
@@ -49,13 +59,19 @@
       "type": "project",
       "path": "../DesignPatternsTutorials.Creational.FactoryMethod/DesignPatternsTutorials.Creational.FactoryMethod.csproj",
       "msbuildProject": "../DesignPatternsTutorials.Creational.FactoryMethod/DesignPatternsTutorials.Creational.FactoryMethod.csproj"
+    },
+    "DesignPatternsTutorials.Creational.Singleton/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsTutorials.Creational.Singleton/DesignPatternsTutorials.Creational.Singleton.csproj",
+      "msbuildProject": "../DesignPatternsTutorials.Creational.Singleton/DesignPatternsTutorials.Creational.Singleton.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "DesignPatternsTutorials.Creational.AbstractFactory >= 1.0.0",
       "DesignPatternsTutorials.Creational.Builder >= 1.0.0",
-      "DesignPatternsTutorials.Creational.FactoryMethod >= 1.0.0"
+      "DesignPatternsTutorials.Creational.FactoryMethod >= 1.0.0",
+      "DesignPatternsTutorials.Creational.Singleton >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -100,6 +116,9 @@
             },
             "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj": {
               "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj"
+            },
+            "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj": {
+              "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj"
             }
           }
         }

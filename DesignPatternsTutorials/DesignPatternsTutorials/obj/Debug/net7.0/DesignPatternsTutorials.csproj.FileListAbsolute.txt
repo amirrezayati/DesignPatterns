@@ -38,3 +38,5 @@ C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\obj\Deb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\obj\Debug\net7.0\ref\DesignPatternsTutorials.dll
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.dll
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.pdb
