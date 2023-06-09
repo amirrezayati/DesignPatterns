@@ -1,0 +1,12 @@
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.deps.json
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.csproj.AssemblyReference.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.AssemblyInfoInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.csproj.CoreCompileInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\obj\Debug\net7.0\refint\DesignPatternsTutorials.Creational.Singleton.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Singleton\obj\Debug\net7.0\ref\DesignPatternsTutorials.Creational.Singleton.dll
