@@ -10,3 +10,15 @@ C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creatio
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\refint\DesignPatternsTutorials.Creational.Builder.dll
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.pdb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\ref\DesignPatternsTutorials.Creational.Builder.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.deps.json
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.csproj.AssemblyReference.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.AssemblyInfoInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.AssemblyInfo.cs
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.csproj.CoreCompileInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\refint\DesignPatternsTutorials.Creational.Builder.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Creational.Builder\obj\Debug\net7.0\ref\DesignPatternsTutorials.Creational.Builder.dll

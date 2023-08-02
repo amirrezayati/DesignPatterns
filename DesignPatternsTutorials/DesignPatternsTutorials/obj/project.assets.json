@@ -41,6 +41,16 @@
         "runtime": {
           "bin/placeholder/DesignPatternsTutorials.Creational.Singleton.dll": {}
         }
+      },
+      "DesignPatternsTutorials.Structural.Decorator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsTutorials.Structural.Decorator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsTutorials.Structural.Decorator.dll": {}
+        }
       }
     }
   },
@@ -64,6 +74,11 @@
       "type": "project",
       "path": "../DesignPatternsTutorials.Creational.Singleton/DesignPatternsTutorials.Creational.Singleton.csproj",
       "msbuildProject": "../DesignPatternsTutorials.Creational.Singleton/DesignPatternsTutorials.Creational.Singleton.csproj"
+    },
+    "DesignPatternsTutorials.Structural.Decorator/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsTutorials.Structural.Decorator/DesignPatternsTutorials.Structural.Decorator.csproj",
+      "msbuildProject": "../DesignPatternsTutorials.Structural.Decorator/DesignPatternsTutorials.Structural.Decorator.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -71,11 +86,13 @@
       "DesignPatternsTutorials.Creational.AbstractFactory >= 1.0.0",
       "DesignPatternsTutorials.Creational.Builder >= 1.0.0",
       "DesignPatternsTutorials.Creational.FactoryMethod >= 1.0.0",
-      "DesignPatternsTutorials.Creational.Singleton >= 1.0.0"
+      "DesignPatternsTutorials.Creational.Singleton >= 1.0.0",
+      "DesignPatternsTutorials.Structural.Decorator >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a-rezayati\\.nuget\\packages\\": {}
+    "C:\\Users\\a-rezayati\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -86,6 +103,9 @@
       "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
       "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -112,6 +132,9 @@
             },
             "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj": {
               "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj"
+            },
+            "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj": {
+              "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj"
             }
           }
         }

@@ -8,6 +8,9 @@ using DesignPatternsTutorials.Creational.FactoryMethod;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteCreator;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteProduct;
 using DesignPatternsTutorials.Creational.Singleton;
+using DesignPatternsTutorials.Structural.Decorator;
+using DesignPatternsTutorials.Structural.Decorator.AbstractDecorator;
+using DesignPatternsTutorials.Structural.Decorator.ConcreteDecorator;
 
 #region [- Factory Method -]
 Console.WriteLine("Factory Method!");
@@ -79,5 +82,24 @@ for (int i = 0; i < 15; i++)
 }
 
 #endregion
+
+#region [- Decorator -]
+ICar economyCar = new EconomyCar();
+var economyCarDescription = economyCar.GetDescription();
+Console.WriteLine($"basicAccessoryCostEconomyCar : {economyCarDescription}");
+var basicAccessoryEconomyCar = new BasicAccessories(economyCar);
+Console.WriteLine($"basicAccessoryDescriptionEconomyCar : {basicAccessoryEconomyCar.GetDescription()}");
+Console.WriteLine($"basicAccessoryCostEconomyCar : {basicAccessoryEconomyCar.GetCost()}");
+basicAccessoryEconomyCar.GetDescription();
+
+ICar objCar = new EconomyCar();
+CarAccessoriesDecorator objAccessoriesDecorator = new BasicAccessories(objCar);
+objAccessoriesDecorator = new AdvancedAccessories(objAccessoriesDecorator);
+
+Console.Write(objAccessoriesDecorator.GetDescription());
+Console.WriteLine();
+Console.Write(objAccessoriesDecorator.GetCost()); 
+#endregion
+
 
 Console.ReadKey();
