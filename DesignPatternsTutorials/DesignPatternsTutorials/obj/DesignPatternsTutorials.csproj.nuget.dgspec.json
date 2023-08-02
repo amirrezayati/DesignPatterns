@@ -4,6 +4,64 @@
     "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\DesignPatternsTutorials.csproj": {}
   },
   "projects": {
+    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj",
+        "projectName": "DesignPatternsTutorials.Behavioral.TemplateMethod",
+        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj",
+        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
+        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -437,6 +495,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj": {
+                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj"
+              },
               "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj": {
                 "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj"
               },

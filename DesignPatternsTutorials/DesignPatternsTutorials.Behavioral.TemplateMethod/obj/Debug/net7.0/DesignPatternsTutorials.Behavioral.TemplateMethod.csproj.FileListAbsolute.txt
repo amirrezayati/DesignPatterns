@@ -1,0 +1,12 @@
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.deps.json
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj.AssemblyReference.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.AssemblyInfoInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.AssemblyInfo.cs
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj.CoreCompileInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\refint\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\ref\DesignPatternsTutorials.Behavioral.TemplateMethod.dll

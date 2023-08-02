@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using DesignPatternsTutorials.Behavioral.TemplateMethod;
+using DesignPatternsTutorials.Behavioral.TemplateMethod.ConcreteClasses;
 using DesignPatternsTutorials.Creational.AbstractFactory.AbstractFactories;
 using DesignPatternsTutorials.Creational.AbstractFactory.Client;
 using DesignPatternsTutorials.Creational.AbstractFactory.ConcreteFactory;
@@ -157,11 +159,11 @@ context.ContextInterface();
 
 var products = new UserEntity[]
 {
-    new UserEntity { Id = 1, Age = 45, Name = "A" },
-    new UserEntity { Id = 2, Age = 32, Name = "B" },
-    new UserEntity { Id = 4, Age = 60, Name = "F" },
-    new UserEntity { Id = 5, Age = 50, Name = "C" },
-    new UserEntity { Id = 3, Age = 10, Name = "D" },
+    new() { Id = 1, Age = 45, Name = "A" },
+    new() { Id = 2, Age = 32, Name = "B" },
+    new() { Id = 4, Age = 60, Name = "F" },
+    new() { Id = 5, Age = 50, Name = "C" },
+    new() { Id = 3, Age = 10, Name = "D" },
 };
 
 Array.Sort(products, new UserById());
@@ -176,6 +178,13 @@ foreach (var product in products)
     product.Display();
 }
 
-# endregion
+#endregion
+
+#region [- TemplateMethod -]
+Console.WriteLine(Environment.NewLine);
+Console.WriteLine("TemplateMethod!");
+Console.WriteLine("----------------------------------------------------------");
+Client.Run(new ConcreteClassOne()); 
+#endregion
 
 Console.ReadKey();
