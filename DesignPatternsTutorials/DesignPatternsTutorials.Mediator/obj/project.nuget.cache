@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZxKbJto1mGMWSDkztREuFsv4kkTf393IscmM2XZPJfxdEgdF7URsO54M9WOLrZ2M0gMDGSqcpeYLv0NqZLbjaQ==",
+  "dgSpecHash": "4/hVcNXohgDXTclT1tANgzXQAS3x6InEaCaRZ5taeOEYefGNBw/HY9m88MfuzOtfggkga5DSojknyPJN/pvlCQ==",
   "success": true,
-  "projectFilePath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Mediator.csproj",
+  "projectFilePath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

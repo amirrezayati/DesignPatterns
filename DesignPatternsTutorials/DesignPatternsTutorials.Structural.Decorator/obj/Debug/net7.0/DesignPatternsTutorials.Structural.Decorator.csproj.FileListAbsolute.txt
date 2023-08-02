@@ -10,3 +10,15 @@ E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\refint\DesignPatternsTutorials.Structural.Decorator.dll
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.pdb
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\ref\DesignPatternsTutorials.Structural.Decorator.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.deps.json
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.csproj.AssemblyReference.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.AssemblyInfoInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.csproj.CoreCompileInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\refint\DesignPatternsTutorials.Structural.Decorator.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Decorator\obj\Debug\net7.0\ref\DesignPatternsTutorials.Structural.Decorator.dll

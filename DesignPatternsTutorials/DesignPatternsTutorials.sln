@@ -15,11 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Cre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Structural.Decorator", "DesignPatternsTutorials.Structural.Decorator\DesignPatternsTutorials.Structural.Decorator.csproj", "{E2AA078A-F2E2-432E-8FBC-758564FAD336}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Mediator", "DesignPatternsTutorials.Mediator\DesignPatternsTutorials.Mediator.csproj", "{E5BDE152-91F3-4417-8937-568CEC5D5F74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Behavioral.Mediator", "DesignPatternsTutorials.Mediator\DesignPatternsTutorials.Behavioral.Mediator.csproj", "{E5BDE152-91F3-4417-8937-568CEC5D5F74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Strategy", "DesignPatternsTutorials.Strategy\DesignPatternsTutorials.Strategy.csproj", "{3D550B1F-92CC-449E-9927-7590183E6A62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Behavioral.Strategy", "DesignPatternsTutorials.Strategy\DesignPatternsTutorials.Behavioral.Strategy.csproj", "{3D550B1F-92CC-449E-9927-7590183E6A62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Behavioral.TemplateMethod", "DesignPatternsTutorials.Behavioral.TemplateMethod\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj", "{25DD3992-EDE5-4946-9B37-39D77A167942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Behavioral.TemplateMethod", "DesignPatternsTutorials.Behavioral.TemplateMethod\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj", "{25DD3992-EDE5-4946-9B37-39D77A167942}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

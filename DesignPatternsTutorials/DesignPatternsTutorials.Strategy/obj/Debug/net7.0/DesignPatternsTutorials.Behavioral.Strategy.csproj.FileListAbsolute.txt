@@ -1,0 +1,12 @@
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.deps.json
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.csproj.AssemblyReference.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.AssemblyInfoInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.csproj.CoreCompileInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\refint\DesignPatternsTutorials.Behavioral.Strategy.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\ref\DesignPatternsTutorials.Behavioral.Strategy.dll

@@ -54,3 +54,11 @@ E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Strategy.pdb
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.pdb

@@ -10,3 +10,15 @@ E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\refint\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.pdb
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\ref\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.deps.json
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj.AssemblyReference.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.AssemblyInfoInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj.CoreCompileInputs.cache
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\refint\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Behavioral.TemplateMethod\obj\Debug\net7.0\ref\DesignPatternsTutorials.Behavioral.TemplateMethod.dll

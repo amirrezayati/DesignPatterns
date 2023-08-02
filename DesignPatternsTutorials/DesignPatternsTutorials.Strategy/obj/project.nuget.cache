@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nkrM/ukC6jG1SySGwYzT2gVd6IpBfPFl/7yeiD8sl1wyZUOIHOhBFactxohkC4GngkcR8t9pTFvWr3elY9Jwyg==",
+  "dgSpecHash": "hvH7njt9BK5YZ4V7dHizUYY6a1qFKSELAIkDir21haZUSedJJS3P2y1AsU+uyZnmB5JAAiAfktBKZ9yk+g8jKw==",
   "success": true,
-  "projectFilePath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Strategy.csproj",
+  "projectFilePath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
