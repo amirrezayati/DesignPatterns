@@ -3,6 +3,7 @@
 using DesignPatternsTutorials.Creational.AbstractFactory.AbstractFactories;
 using DesignPatternsTutorials.Creational.AbstractFactory.Client;
 using DesignPatternsTutorials.Creational.AbstractFactory.ConcreteFactory;
+using DesignPatternsTutorials.Creational.Builder.Product;
 using DesignPatternsTutorials.Creational.Builder.ProductBuilder;
 using DesignPatternsTutorials.Creational.FactoryMethod;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteCreator;
@@ -10,6 +11,9 @@ using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteProduct;
 using DesignPatternsTutorials.Creational.Singleton;
 using DesignPatternsTutorials.Mediator.ConcreteColleagues;
 using DesignPatternsTutorials.Mediator.ConcreteMediators;
+using DesignPatternsTutorials.Strategy.ConcreteStrategies;
+using DesignPatternsTutorials.Strategy.Contexts;
+using DesignPatternsTutorials.Strategy.Entities;
 using DesignPatternsTutorials.Structural.Decorator;
 using DesignPatternsTutorials.Structural.Decorator.AbstractDecorator;
 using DesignPatternsTutorials.Structural.Decorator.ConcreteDecorator;
@@ -30,6 +34,7 @@ Console.WriteLine(square.Creator());
 #endregion
 
 #region [- Abstract Factory -]
+Console.WriteLine(Environment.NewLine);
 Console.WriteLine("AbstractFactory!");
 Console.WriteLine("----------------------------------------------------------");
 
@@ -50,6 +55,7 @@ Console.WriteLine(samsungClient.GetNormalPhoneDetails());
 #endregion
 
 #region [- Builder -]
+Console.WriteLine(Environment.NewLine);
 Console.WriteLine("Builder!");
 Console.WriteLine("----------------------------------------------------------");
 
@@ -65,6 +71,7 @@ Console.WriteLine($"{product3.Name}     {product3.Brand}     {product3.Price}");
 #endregion
 
 #region [- Singleton -]
+Console.WriteLine(Environment.NewLine);
 Console.WriteLine("Singleton!");
 Console.WriteLine("----------------------------------------------------------");
 
@@ -86,6 +93,7 @@ for (int i = 0; i < 15; i++)
 #endregion
 
 #region [- Decorator -]
+Console.WriteLine(Environment.NewLine);
 Console.WriteLine("Decorator!");
 Console.WriteLine("----------------------------------------------------------");
 
@@ -107,6 +115,7 @@ Console.Write(objAccessoriesDecorator.GetCost());
 #endregion
 
 #region [- Mediator -]
+Console.WriteLine(Environment.NewLine);
 Console.WriteLine("Mediator!");
 Console.WriteLine("----------------------------------------------------------");
 
@@ -123,7 +132,50 @@ colleagueTwo.SetColleague(concreteMediator);
 
 //Send Message
 colleagueOne.Send("Salam Khubi?");
-colleagueTwo.Send("Salam Merc To Khubi?"); 
+colleagueTwo.Send("Salam Merc To Khubi?");
 #endregion
+
+#region [- Strategy -]
+
+Console.WriteLine(Environment.NewLine);
+Console.WriteLine("Strategy!");
+Console.WriteLine("----------------------------------------------------------");
+
+//Create Instance from Context
+Context context;
+//Pass Concretes to Context insteadof IStrategy
+context = new Context(new ConcreteStrategyA());
+//Call Context Methods
+context.ContextInterface();
+
+context = new Context(new ConcreteStrategyB());
+context.ContextInterface();
+
+context = new Context(new ConcreteStrategyC());
+context.ContextInterface();
+// new example for Array.Sort()
+
+var products = new UserEntity[]
+{
+    new UserEntity { Id = 1, Age = 45, Name = "A" },
+    new UserEntity { Id = 2, Age = 32, Name = "B" },
+    new UserEntity { Id = 4, Age = 60, Name = "F" },
+    new UserEntity { Id = 5, Age = 50, Name = "C" },
+    new UserEntity { Id = 3, Age = 10, Name = "D" },
+};
+
+Array.Sort(products, new UserById());
+foreach (var product in products)
+{
+    product.Display();
+}
+
+Array.Sort(products, new UserByAge());
+foreach (var product in products)
+{
+    product.Display();
+}
+
+# endregion
 
 Console.ReadKey();

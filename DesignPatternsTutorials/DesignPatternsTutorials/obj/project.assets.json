@@ -52,6 +52,16 @@
           "bin/placeholder/DesignPatternsTutorials.Mediator.dll": {}
         }
       },
+      "DesignPatternsTutorials.Strategy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsTutorials.Strategy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsTutorials.Strategy.dll": {}
+        }
+      },
       "DesignPatternsTutorials.Structural.Decorator/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -90,6 +100,11 @@
       "path": "../DesignPatternsTutorials.Mediator/DesignPatternsTutorials.Mediator.csproj",
       "msbuildProject": "../DesignPatternsTutorials.Mediator/DesignPatternsTutorials.Mediator.csproj"
     },
+    "DesignPatternsTutorials.Strategy/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsTutorials.Strategy/DesignPatternsTutorials.Strategy.csproj",
+      "msbuildProject": "../DesignPatternsTutorials.Strategy/DesignPatternsTutorials.Strategy.csproj"
+    },
     "DesignPatternsTutorials.Structural.Decorator/1.0.0": {
       "type": "project",
       "path": "../DesignPatternsTutorials.Structural.Decorator/DesignPatternsTutorials.Structural.Decorator.csproj",
@@ -103,6 +118,7 @@
       "DesignPatternsTutorials.Creational.FactoryMethod >= 1.0.0",
       "DesignPatternsTutorials.Creational.Singleton >= 1.0.0",
       "DesignPatternsTutorials.Mediator >= 1.0.0",
+      "DesignPatternsTutorials.Strategy >= 1.0.0",
       "DesignPatternsTutorials.Structural.Decorator >= 1.0.0"
     ]
   },
@@ -151,6 +167,9 @@
             },
             "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Mediator.csproj": {
               "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Mediator.csproj"
+            },
+            "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Strategy.csproj": {
+              "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Strategy.csproj"
             },
             "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj": {
               "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj"

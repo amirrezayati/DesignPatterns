@@ -1,0 +1,12 @@
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\bin\Debug\net7.0\DesignPatternsTutorials.Strategy.deps.json
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\bin\Debug\net7.0\DesignPatternsTutorials.Strategy.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\bin\Debug\net7.0\DesignPatternsTutorials.Strategy.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Strategy.csproj.AssemblyReference.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Strategy.AssemblyInfoInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Strategy.AssemblyInfo.cs
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Strategy.csproj.CoreCompileInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Strategy.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\refint\DesignPatternsTutorials.Strategy.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Strategy.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\ref\DesignPatternsTutorials.Strategy.dll
