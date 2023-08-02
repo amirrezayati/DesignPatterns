@@ -1,0 +1,12 @@
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Mediator.csproj.AssemblyReference.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Mediator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Mediator.AssemblyInfoInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Mediator.AssemblyInfo.cs
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Mediator.csproj.CoreCompileInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\bin\Debug\net7.0\DesignPatternsTutorials.Mediator.deps.json
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\bin\Debug\net7.0\DesignPatternsTutorials.Mediator.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\bin\Debug\net7.0\DesignPatternsTutorials.Mediator.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Mediator.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\refint\DesignPatternsTutorials.Mediator.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Mediator.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\ref\DesignPatternsTutorials.Mediator.dll

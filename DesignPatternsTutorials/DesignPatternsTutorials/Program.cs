@@ -8,6 +8,8 @@ using DesignPatternsTutorials.Creational.FactoryMethod;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteCreator;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteProduct;
 using DesignPatternsTutorials.Creational.Singleton;
+using DesignPatternsTutorials.Mediator.ConcreteColleagues;
+using DesignPatternsTutorials.Mediator.ConcreteMediators;
 using DesignPatternsTutorials.Structural.Decorator;
 using DesignPatternsTutorials.Structural.Decorator.AbstractDecorator;
 using DesignPatternsTutorials.Structural.Decorator.ConcreteDecorator;
@@ -84,6 +86,9 @@ for (int i = 0; i < 15; i++)
 #endregion
 
 #region [- Decorator -]
+Console.WriteLine("Decorator!");
+Console.WriteLine("----------------------------------------------------------");
+
 ICar economyCar = new EconomyCar();
 var economyCarDescription = economyCar.GetDescription();
 Console.WriteLine($"basicAccessoryCostEconomyCar : {economyCarDescription}");
@@ -98,8 +103,27 @@ objAccessoriesDecorator = new AdvancedAccessories(objAccessoriesDecorator);
 
 Console.Write(objAccessoriesDecorator.GetDescription());
 Console.WriteLine();
-Console.Write(objAccessoriesDecorator.GetCost()); 
+Console.Write(objAccessoriesDecorator.GetCost());
 #endregion
 
+#region [- Mediator -]
+Console.WriteLine("Mediator!");
+Console.WriteLine("----------------------------------------------------------");
+
+// Define ConcreteColleagues
+ConcreteColleagueOne colleagueOne = new();
+ConcreteColleagueTwo colleagueTwo = new();
+
+// Define ConcreteMediator and pass Colleagues to params
+ConcreteMediator concreteMediator = new(colleagueOne, colleagueTwo);
+
+//Set Colleagues
+colleagueOne.SetColleague(concreteMediator);
+colleagueTwo.SetColleague(concreteMediator);
+
+//Send Message
+colleagueOne.Send("Salam Khubi?");
+colleagueTwo.Send("Salam Merc To Khubi?"); 
+#endregion
 
 Console.ReadKey();
