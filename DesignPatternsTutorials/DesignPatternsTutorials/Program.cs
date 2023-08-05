@@ -1,5 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.ConcreteHandlers;
+using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.Handlers;
+using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.Models;
 using DesignPatternsTutorials.Behavioral.TemplateMethod;
 using DesignPatternsTutorials.Behavioral.TemplateMethod.ConcreteClasses;
 using DesignPatternsTutorials.Creational.AbstractFactory.AbstractFactories;
@@ -184,7 +187,36 @@ foreach (var product in products)
 Console.WriteLine(Environment.NewLine);
 Console.WriteLine("TemplateMethod!");
 Console.WriteLine("----------------------------------------------------------");
-Client.Run(new ConcreteClassOne()); 
+Client.Run(new ConcreteClassOne());
 #endregion
+
+#region [- ChainOfResponsibility -]
+Console.WriteLine(Environment.NewLine);
+Console.WriteLine("ChainOfResponsibility!");
+Console.WriteLine("----------------------------------------------------------");
+//Define Concrete Handlers
+AbstractHandler handlerOne = new ConcreteHandler();
+AbstractHandler handlerTwo = new ConcreteHandlerTwo();
+//Set Successor for Next Step
+handlerOne.SetSuccessor(handlerTwo);
+
+//Handle Request
+handlerOne.HandleRequest(20);
+handlerOne.HandleRequest(1000);
+
+CreateOrder createOrder = new CreateOrder();
+SendOrderToDriver sendOrder = new SendOrderToDriver();
+ActiveUser activeUser = new ActiveUser();
+
+activeUser.SetSuccessor(createOrder).SetSuccessor(sendOrder);
+
+
+activeUser.HandleRequest(new RequestContext()
+{
+    Lat = 10.23,
+    Lng = 450.454,
+    UserId = 1
+});
+# endregion
 
 Console.ReadKey();

@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj" />
     <ProjectReference Include="..\DesignPatternsTutorials.Behavioral.TemplateMethod\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj" />
     <ProjectReference Include="..\DesignPatternsTutorials.Creational.AbstractFactory\DesignPatternsTutorials.Creational.AbstractFactory.csproj" />
     <ProjectReference Include="..\DesignPatternsTutorials.Creational.Builder\DesignPatternsTutorials.Creational.Builder.csproj" />

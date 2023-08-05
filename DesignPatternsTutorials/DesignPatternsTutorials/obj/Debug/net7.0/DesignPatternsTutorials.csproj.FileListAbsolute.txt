@@ -62,3 +62,5 @@ C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Deb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.pdb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.pdb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.pdb
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.dll
+C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.pdb
