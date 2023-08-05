@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "DesignPatternsTutorials/1.0.0": {
         "dependencies": {
+          "DesignPatternsTutorials.Adapter": "1.0.0",
           "DesignPatternsTutorials.Behavioral.ChainOfResponsibility": "1.0.0",
           "DesignPatternsTutorials.Behavioral.Mediator": "1.0.0",
           "DesignPatternsTutorials.Behavioral.Strategy": "1.0.0",
@@ -20,6 +21,11 @@
         },
         "runtime": {
           "DesignPatternsTutorials.dll": {}
+        }
+      },
+      "DesignPatternsTutorials.Adapter/1.0.0": {
+        "runtime": {
+          "DesignPatternsTutorials.Adapter.dll": {}
         }
       },
       "DesignPatternsTutorials.Behavioral.ChainOfResponsibility/1.0.0": {
@@ -71,6 +77,11 @@
   },
   "libraries": {
     "DesignPatternsTutorials/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternsTutorials.Adapter/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

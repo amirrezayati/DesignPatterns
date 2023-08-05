@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "DesignPatternsTutorials.Adapter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsTutorials.Adapter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsTutorials.Adapter.dll": {}
+        }
+      },
       "DesignPatternsTutorials.Behavioral.ChainOfResponsibility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -95,6 +105,11 @@
     }
   },
   "libraries": {
+    "DesignPatternsTutorials.Adapter/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsTutorials.Adapter/DesignPatternsTutorials.Adapter.csproj",
+      "msbuildProject": "../DesignPatternsTutorials.Adapter/DesignPatternsTutorials.Adapter.csproj"
+    },
     "DesignPatternsTutorials.Behavioral.ChainOfResponsibility/1.0.0": {
       "type": "project",
       "path": "../DesignPatternsTutorials.Behavioral.ChainOfResponsibility/DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj",
@@ -143,6 +158,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "DesignPatternsTutorials.Adapter >= 1.0.0",
       "DesignPatternsTutorials.Behavioral.ChainOfResponsibility >= 1.0.0",
       "DesignPatternsTutorials.Behavioral.Mediator >= 1.0.0",
       "DesignPatternsTutorials.Behavioral.Strategy >= 1.0.0",
@@ -188,6 +204,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Adapter.csproj": {
+              "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Adapter.csproj"
+            },
             "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj": {
               "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj"
             },

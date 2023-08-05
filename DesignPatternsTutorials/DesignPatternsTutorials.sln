@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Beh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Behavioral.TemplateMethod", "DesignPatternsTutorials.Behavioral.TemplateMethod\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj", "{25DD3992-EDE5-4946-9B37-39D77A167942}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Behavioral.ChainOfResponsibility", "DesignPatternsTutorials.Behavioral.ChainOfResponsibility\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj", "{0B49FFE5-F216-48CB-AACB-C91618E6F93E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Behavioral.ChainOfResponsibility", "DesignPatternsTutorials.Behavioral.ChainOfResponsibility\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj", "{0B49FFE5-F216-48CB-AACB-C91618E6F93E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Adapter", "DesignPatternsTutorials.Adapter\DesignPatternsTutorials.Adapter.csproj", "{33D713D9-0EAA-4946-B7DA-FDCCF37238B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{0B49FFE5-F216-48CB-AACB-C91618E6F93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B49FFE5-F216-48CB-AACB-C91618E6F93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B49FFE5-F216-48CB-AACB-C91618E6F93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D713D9-0EAA-4946-B7DA-FDCCF37238B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D713D9-0EAA-4946-B7DA-FDCCF37238B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D713D9-0EAA-4946-B7DA-FDCCF37238B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D713D9-0EAA-4946-B7DA-FDCCF37238B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

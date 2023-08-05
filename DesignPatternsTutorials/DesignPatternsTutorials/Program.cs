@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using DesignPatternsTutorials.Adapter.Targets;
 using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.ConcreteHandlers;
 using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.Handlers;
 using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.Models;
@@ -217,6 +218,16 @@ activeUser.HandleRequest(new RequestContext()
     Lng = 450.454,
     UserId = 1
 });
-# endregion
+#endregion
+
+#region [- Adapter -]
+Console.WriteLine(Environment.NewLine);
+Console.WriteLine("Adapter!");
+Console.WriteLine("----------------------------------------------------------");
+Target target = new Adapter();
+target.Operation(); 
+#endregion
+
+
 
 Console.ReadKey();
