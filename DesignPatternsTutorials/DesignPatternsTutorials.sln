@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Beh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsTutorials.Behavioral.ChainOfResponsibility", "DesignPatternsTutorials.Behavioral.ChainOfResponsibility\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj", "{0B49FFE5-F216-48CB-AACB-C91618E6F93E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Adapter", "DesignPatternsTutorials.Adapter\DesignPatternsTutorials.Adapter.csproj", "{33D713D9-0EAA-4946-B7DA-FDCCF37238B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTutorials.Structural.Adapter", "DesignPatternsTutorials.Adapter\DesignPatternsTutorials.Structural.Adapter.csproj", "{33D713D9-0EAA-4946-B7DA-FDCCF37238B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

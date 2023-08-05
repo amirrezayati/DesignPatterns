@@ -1,4 +1,4 @@
-﻿namespace DesignPatternsTutorials.Adapter.Adaptees;
+﻿namespace DesignPatternsTutorials.Structural.Adapter.Adaptees;
 
 public class Adaptee
 {

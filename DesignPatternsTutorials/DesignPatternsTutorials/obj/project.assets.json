@@ -2,16 +2,6 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "DesignPatternsTutorials.Adapter/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/DesignPatternsTutorials.Adapter.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DesignPatternsTutorials.Adapter.dll": {}
-        }
-      },
       "DesignPatternsTutorials.Behavioral.ChainOfResponsibility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -92,6 +82,16 @@
           "bin/placeholder/DesignPatternsTutorials.Creational.Singleton.dll": {}
         }
       },
+      "DesignPatternsTutorials.Structural.Adapter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsTutorials.Structural.Adapter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsTutorials.Structural.Adapter.dll": {}
+        }
+      },
       "DesignPatternsTutorials.Structural.Decorator/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -105,11 +105,6 @@
     }
   },
   "libraries": {
-    "DesignPatternsTutorials.Adapter/1.0.0": {
-      "type": "project",
-      "path": "../DesignPatternsTutorials.Adapter/DesignPatternsTutorials.Adapter.csproj",
-      "msbuildProject": "../DesignPatternsTutorials.Adapter/DesignPatternsTutorials.Adapter.csproj"
-    },
     "DesignPatternsTutorials.Behavioral.ChainOfResponsibility/1.0.0": {
       "type": "project",
       "path": "../DesignPatternsTutorials.Behavioral.ChainOfResponsibility/DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj",
@@ -150,6 +145,11 @@
       "path": "../DesignPatternsTutorials.Creational.Singleton/DesignPatternsTutorials.Creational.Singleton.csproj",
       "msbuildProject": "../DesignPatternsTutorials.Creational.Singleton/DesignPatternsTutorials.Creational.Singleton.csproj"
     },
+    "DesignPatternsTutorials.Structural.Adapter/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsTutorials.Adapter/DesignPatternsTutorials.Structural.Adapter.csproj",
+      "msbuildProject": "../DesignPatternsTutorials.Adapter/DesignPatternsTutorials.Structural.Adapter.csproj"
+    },
     "DesignPatternsTutorials.Structural.Decorator/1.0.0": {
       "type": "project",
       "path": "../DesignPatternsTutorials.Structural.Decorator/DesignPatternsTutorials.Structural.Decorator.csproj",
@@ -158,7 +158,6 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "DesignPatternsTutorials.Adapter >= 1.0.0",
       "DesignPatternsTutorials.Behavioral.ChainOfResponsibility >= 1.0.0",
       "DesignPatternsTutorials.Behavioral.Mediator >= 1.0.0",
       "DesignPatternsTutorials.Behavioral.Strategy >= 1.0.0",
@@ -167,6 +166,7 @@
       "DesignPatternsTutorials.Creational.Builder >= 1.0.0",
       "DesignPatternsTutorials.Creational.FactoryMethod >= 1.0.0",
       "DesignPatternsTutorials.Creational.Singleton >= 1.0.0",
+      "DesignPatternsTutorials.Structural.Adapter >= 1.0.0",
       "DesignPatternsTutorials.Structural.Decorator >= 1.0.0"
     ]
   },
@@ -204,8 +204,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Adapter.csproj": {
-              "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Adapter.csproj"
+            "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj": {
+              "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj"
             },
             "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj": {
               "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj"

@@ -1,7 +1,7 @@
-﻿using DesignPatternsTutorials.Adapter.Adaptees;
-using DesignPatternsTutorials.Adapter.Targets;
+﻿using DesignPatternsTutorials.Structural.Adapter.Targets;
+using DesignPatternsTutorials.Structural.Adapter.Adaptees;
 
-namespace DesignPatternsTutorials.Adapter.Adapters;
+namespace DesignPatternsTutorials.Structural.Adapter.Adapters;
 
 public class Adapter : Target
 {

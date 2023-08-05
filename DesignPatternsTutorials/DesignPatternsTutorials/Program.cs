@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using DesignPatternsTutorials.Adapter.Targets;
+using DesignPatternsTutorials.Structural.Adapter.Targets;
 using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.ConcreteHandlers;
 using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.Handlers;
 using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.Models;
@@ -9,7 +9,6 @@ using DesignPatternsTutorials.Behavioral.TemplateMethod.ConcreteClasses;
 using DesignPatternsTutorials.Creational.AbstractFactory.AbstractFactories;
 using DesignPatternsTutorials.Creational.AbstractFactory.Client;
 using DesignPatternsTutorials.Creational.AbstractFactory.ConcreteFactory;
-using DesignPatternsTutorials.Creational.Builder.Product;
 using DesignPatternsTutorials.Creational.Builder.ProductBuilder;
 using DesignPatternsTutorials.Creational.FactoryMethod;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteCreator;

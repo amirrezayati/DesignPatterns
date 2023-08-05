@@ -4,12 +4,12 @@
     "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\DesignPatternsTutorials.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Adapter.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Adapter.csproj",
-        "projectName": "DesignPatternsTutorials.Adapter",
-        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Adapter.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj",
+        "projectName": "DesignPatternsTutorials.Structural.Adapter",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj",
         "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
         "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\obj\\",
         "projectStyle": "PackageReference",
@@ -633,8 +633,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Adapter.csproj": {
-                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Adapter.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj"
               },
               "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj": {
                 "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj"
