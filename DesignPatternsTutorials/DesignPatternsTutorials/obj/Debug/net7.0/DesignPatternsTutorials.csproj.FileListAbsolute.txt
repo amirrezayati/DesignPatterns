@@ -48,10 +48,6 @@ E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Builder.pdb
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Creational.Singleton.pdb
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Decorator.pdb
-E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Mediator.dll
-E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Mediator.pdb
-E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Strategy.dll
-E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Strategy.pdb
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.dll
 E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.TemplateMethod.pdb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.dll
@@ -66,3 +62,11 @@ C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Deb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.pdb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Adapter.dll
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Adapter.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.pdb

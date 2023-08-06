@@ -19,6 +19,7 @@ using DesignPatternsTutorials.Mediator.ConcreteMediators;
 using DesignPatternsTutorials.Strategy.ConcreteStrategies;
 using DesignPatternsTutorials.Strategy.Contexts;
 using DesignPatternsTutorials.Strategy.Entities;
+using DesignPatternsTutorials.Structural.Adapter.Adapters;
 using DesignPatternsTutorials.Structural.Decorator;
 using DesignPatternsTutorials.Structural.Decorator.AbstractDecorator;
 using DesignPatternsTutorials.Structural.Decorator.ConcreteDecorator;
@@ -34,6 +35,12 @@ Console.WriteLine(circle.Creator());
 
 IShapeFactory square = new SquareFactory();
 Console.WriteLine(square.Creator());
+
+ISmsManagerFactory smsKavehnegar = new KavehNegarFactory();
+Console.WriteLine(smsKavehnegar.CreateManager());
+
+ISmsManagerFactory smsTwilio = new TwilioFactory();
+Console.WriteLine(smsTwilio.CreateManager());
 
 // you can create and draw every shapes
 #endregion

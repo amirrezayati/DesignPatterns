@@ -10,3 +10,15 @@ C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strateg
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\refint\DesignPatternsTutorials.Behavioral.Strategy.dll
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.pdb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\ref\DesignPatternsTutorials.Behavioral.Strategy.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.deps.json
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.csproj.AssemblyReference.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.AssemblyInfoInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.AssemblyInfo.cs
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.csproj.CoreCompileInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\refint\DesignPatternsTutorials.Behavioral.Strategy.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Strategy.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Strategy\obj\Debug\net7.0\ref\DesignPatternsTutorials.Behavioral.Strategy.dll

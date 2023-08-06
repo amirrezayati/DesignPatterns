@@ -1,0 +1,12 @@
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.deps.json
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.csproj.AssemblyReference.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.AssemblyInfoInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.AssemblyInfo.cs
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.csproj.CoreCompileInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\obj\Debug\net7.0\refint\DesignPatternsTutorials.Structural.Adapter.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Adapter.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Adapter\obj\Debug\net7.0\ref\DesignPatternsTutorials.Structural.Adapter.dll

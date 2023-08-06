@@ -6,4 +6,9 @@ namespace DesignPatternsTutorials.Creational.FactoryMethod.ConcreteProduct
     {
         IShape CreateShape();
     }
+
+    public interface ISmsManagerFactory
+    {
+        ISmsManager CreateManager();
+    }
 }

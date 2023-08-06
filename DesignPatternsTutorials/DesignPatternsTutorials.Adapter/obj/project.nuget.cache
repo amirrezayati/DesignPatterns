@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7rVChj83CMOhKa4Ock6yA6pcwGHkv7+EAIepXmF5QJ52HnyeMihJf/U1VS6kzz99EEmfetCJYld+N8ny4KCszw==",
+  "dgSpecHash": "Xhi/lQmXJWL+vJOJZWoGErlR/FCuTfVY7ZYUXkySrrOpuKTls78lWLneOwIDSKkf0Fqz7q51omPEmF0Ikdljbg==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj",
+  "projectFilePath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
