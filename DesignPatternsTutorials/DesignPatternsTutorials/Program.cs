@@ -9,6 +9,8 @@ using DesignPatternsTutorials.Behavioral.TemplateMethod.ConcreteClasses;
 using DesignPatternsTutorials.Creational.AbstractFactory.AbstractFactories;
 using DesignPatternsTutorials.Creational.AbstractFactory.Client;
 using DesignPatternsTutorials.Creational.AbstractFactory.ConcreteFactory;
+using DesignPatternsTutorials.Creational.Builder.Concretes;
+using DesignPatternsTutorials.Creational.Builder.Directors;
 using DesignPatternsTutorials.Creational.Builder.ProductBuilder;
 using DesignPatternsTutorials.Creational.FactoryMethod;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteCreator;
@@ -79,6 +81,20 @@ Console.WriteLine(samsungClient.GetNormalPhoneDetails());
 Console.WriteLine(Environment.NewLine);
 Console.WriteLine("Builder!");
 Console.WriteLine("----------------------------------------------------------");
+
+Director director = new();
+
+ConcreteBuilderOne concreteBuilderOne = new();
+director.SetBuilder(concreteBuilderOne);
+director.Construct();
+var productOne = concreteBuilderOne.GetResult();
+productOne.Display();
+
+ConcreteBuilderTwo concreteBuilderTwo = new();
+director.SetBuilder(concreteBuilderTwo);
+director.Construct();
+var productTwo = concreteBuilderTwo.GetResult();
+productTwo.Display();
 
 var productBuilder = new ProductBuilder();
 var product1 = productBuilder.Build();
