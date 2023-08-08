@@ -92,6 +92,16 @@
           "bin/placeholder/DesignPatternsTutorials.Structural.Adapter.dll": {}
         }
       },
+      "DesignPatternsTutorials.Structural.Composite/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsTutorials.Structural.Composite.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsTutorials.Structural.Composite.dll": {}
+        }
+      },
       "DesignPatternsTutorials.Structural.Decorator/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -150,6 +160,11 @@
       "path": "../DesignPatternsTutorials.Adapter/DesignPatternsTutorials.Structural.Adapter.csproj",
       "msbuildProject": "../DesignPatternsTutorials.Adapter/DesignPatternsTutorials.Structural.Adapter.csproj"
     },
+    "DesignPatternsTutorials.Structural.Composite/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsTutorials.Structural.Composite/DesignPatternsTutorials.Structural.Composite.csproj",
+      "msbuildProject": "../DesignPatternsTutorials.Structural.Composite/DesignPatternsTutorials.Structural.Composite.csproj"
+    },
     "DesignPatternsTutorials.Structural.Decorator/1.0.0": {
       "type": "project",
       "path": "../DesignPatternsTutorials.Structural.Decorator/DesignPatternsTutorials.Structural.Decorator.csproj",
@@ -167,6 +182,7 @@
       "DesignPatternsTutorials.Creational.FactoryMethod >= 1.0.0",
       "DesignPatternsTutorials.Creational.Singleton >= 1.0.0",
       "DesignPatternsTutorials.Structural.Adapter >= 1.0.0",
+      "DesignPatternsTutorials.Structural.Composite >= 1.0.0",
       "DesignPatternsTutorials.Structural.Decorator >= 1.0.0"
     ]
   },
@@ -227,6 +243,9 @@
             },
             "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj": {
               "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj"
+            },
+            "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj": {
+              "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj"
             },
             "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj": {
               "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj"
