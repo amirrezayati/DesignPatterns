@@ -2,7 +2,7 @@
 
 public interface ISmsManager
 {
-    public void Send(SmsDto dto);
+    public string Send(SmsDto dto);
     List<SmsDto> GetList();
 }
 

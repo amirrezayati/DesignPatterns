@@ -4,9 +4,9 @@ namespace DesignPatternsTutorials.Creational.FactoryMethod.Creator;
 
 public class KavehNegar : ISmsManager
 {
-    public void Send(SmsDto dto)
+    public string Send(SmsDto dto)
     {
-        Console.WriteLine("KavehNegar.Send");
+        return "KavehNegar.Send";
     }
 
     public List<SmsDto> GetList()

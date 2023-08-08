@@ -13,6 +13,7 @@ using DesignPatternsTutorials.Creational.Builder.ProductBuilder;
 using DesignPatternsTutorials.Creational.FactoryMethod;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteCreator;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteProduct;
+using DesignPatternsTutorials.Creational.FactoryMethod.Product;
 using DesignPatternsTutorials.Creational.Singleton;
 using DesignPatternsTutorials.Mediator.ConcreteColleagues;
 using DesignPatternsTutorials.Mediator.ConcreteMediators;
@@ -37,10 +38,18 @@ IShapeFactory square = new SquareFactory();
 Console.WriteLine(square.Creator());
 
 ISmsManagerFactory smsKavehnegar = new KavehNegarFactory();
-Console.WriteLine(smsKavehnegar.CreateManager());
+Console.WriteLine(smsKavehnegar.Creator(new SmsDto()
+{
+    Message = "smsKavehnegar",
+    Reciver = "Me"
+}));
 
 ISmsManagerFactory smsTwilio = new TwilioFactory();
-Console.WriteLine(smsTwilio.CreateManager());
+Console.WriteLine(smsTwilio.Creator(new SmsDto()
+{
+    Message = "smsTwilio",
+    Reciver = "Me"
+}));
 
 // you can create and draw every shapes
 #endregion
