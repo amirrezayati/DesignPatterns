@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u4XWm+Pvcsyr0TYKq8Uguf/bjOKb6l+08PtqFjMDK6iDODdoPCOp1GaTWTwCaYhT5skUnr1uHF+f2kbfX7x0oA==",
+  "dgSpecHash": "p10+uW+mnHvF0U6CLrMZ8DMXiacKRY/hvn37Sye2ywHQrzYUOtSGwWMT+PH42Cpg2MKYwFVgoMPBN2aQY9wDKg==",
   "success": true,
-  "projectFilePath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj",
+  "projectFilePath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj": {}
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj": {}
   },
   "projects": {
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj",
         "projectName": "DesignPatternsTutorials.Structural.Composite",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\DesignPatternsTutorials.csproj": {}
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\DesignPatternsTutorials.csproj": {}
   },
   "projects": {
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj",
         "projectName": "DesignPatternsTutorials.Structural.Adapter",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,20 +64,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj",
         "projectName": "DesignPatternsTutorials.Behavioral.ChainOfResponsibility",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,20 +124,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj",
         "projectName": "DesignPatternsTutorials.Behavioral.TemplateMethod",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -178,20 +184,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj",
         "projectName": "DesignPatternsTutorials.Creational.AbstractFactory",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -236,20 +244,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj",
         "projectName": "DesignPatternsTutorials.Creational.Builder",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -294,20 +304,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj",
         "projectName": "DesignPatternsTutorials.Creational.FactoryMethod",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -352,20 +364,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj",
         "projectName": "DesignPatternsTutorials.Creational.Singleton",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -410,20 +424,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj",
         "projectName": "DesignPatternsTutorials.Behavioral.Mediator",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -468,20 +484,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj",
         "projectName": "DesignPatternsTutorials.Behavioral.Strategy",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -526,20 +544,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj",
         "projectName": "DesignPatternsTutorials.Structural.Composite",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -584,20 +604,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj",
         "projectName": "DesignPatternsTutorials.Structural.Decorator",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -642,20 +664,22 @@
         }
       }
     },
-    "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\DesignPatternsTutorials.csproj": {
+    "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\DesignPatternsTutorials.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\DesignPatternsTutorials.csproj",
+        "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\DesignPatternsTutorials.csproj",
         "projectName": "DesignPatternsTutorials",
-        "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\DesignPatternsTutorials.csproj",
-        "packagesPath": "C:\\Users\\a-rezayati\\.nuget\\packages\\",
-        "outputPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\obj\\",
+        "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\DesignPatternsTutorials.csproj",
+        "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a-rezayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -669,38 +693,38 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Adapter\\DesignPatternsTutorials.Structural.Adapter.csproj"
               },
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility\\DesignPatternsTutorials.Behavioral.ChainOfResponsibility.csproj"
               },
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Behavioral.TemplateMethod\\DesignPatternsTutorials.Behavioral.TemplateMethod.csproj"
               },
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj"
               },
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Builder\\DesignPatternsTutorials.Creational.Builder.csproj"
               },
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.FactoryMethod\\DesignPatternsTutorials.Creational.FactoryMethod.csproj"
               },
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.Singleton\\DesignPatternsTutorials.Creational.Singleton.csproj"
               },
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Mediator\\DesignPatternsTutorials.Behavioral.Mediator.csproj"
               },
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Strategy\\DesignPatternsTutorials.Behavioral.Strategy.csproj"
               },
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Composite\\DesignPatternsTutorials.Structural.Composite.csproj"
               },
-              "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj": {
-                "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj"
+              "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj": {
+                "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj"
               }
             }
           }
