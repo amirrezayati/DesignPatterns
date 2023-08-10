@@ -32,8 +32,10 @@ using DesignPatternsTutorials.Structural.Composite.Components.ComputerAssemble;
 using DesignPatternsTutorials.Structural.Composite.Composites;
 using DesignPatternsTutorials.Structural.Composite.Composites.ComputerAssemble;
 using DesignPatternsTutorials.Structural.Composite.Leafs;
-using DesignPatternsTutorials.Structural.Composite.Leafs.ComputerAssemble; 
+using DesignPatternsTutorials.Structural.Composite.Leafs.ComputerAssemble;
 #endregion
+
+#region Patterns
 
 #region [- Factory Method -]
 Console.WriteLine("Factory Method!");
@@ -321,7 +323,9 @@ ComputerAssembleComponent computer = new ComputerAssembleComposite("Computer",
             new ComputerAssembleLeaf("Mouse")
         })
     });
-computer.Display(1); 
+computer.Display(1);
+#endregion 
+
 #endregion
 
 Console.ReadKey();
