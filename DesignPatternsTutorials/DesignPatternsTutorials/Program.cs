@@ -9,10 +9,13 @@ using DesignPatternsTutorials.Behavioral.TemplateMethod.ConcreteClasses;
 using DesignPatternsTutorials.Creational.AbstractFactory.AbstractFactories;
 using DesignPatternsTutorials.Creational.AbstractFactory.Client;
 using DesignPatternsTutorials.Creational.AbstractFactory.ConcreteFactory;
+using DesignPatternsTutorials.Creational.Builder.Concretes;
+using DesignPatternsTutorials.Creational.Builder.Directors;
 using DesignPatternsTutorials.Creational.Builder.ProductBuilder;
 using DesignPatternsTutorials.Creational.FactoryMethod;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteCreator;
 using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteProduct;
+using DesignPatternsTutorials.Creational.FactoryMethod.Product;
 using DesignPatternsTutorials.Creational.Singleton;
 using DesignPatternsTutorials.Mediator.ConcreteColleagues;
 using DesignPatternsTutorials.Mediator.ConcreteMediators;
@@ -23,6 +26,12 @@ using DesignPatternsTutorials.Structural.Adapter.Adapters;
 using DesignPatternsTutorials.Structural.Decorator;
 using DesignPatternsTutorials.Structural.Decorator.AbstractDecorator;
 using DesignPatternsTutorials.Structural.Decorator.ConcreteDecorator;
+using DesignPatternsTutorials.Structural.Composite.Components;
+using DesignPatternsTutorials.Structural.Composite.Components.ComputerAssemble;
+using DesignPatternsTutorials.Structural.Composite.Composites;
+using DesignPatternsTutorials.Structural.Composite.Composites.ComputerAssemble;
+using DesignPatternsTutorials.Structural.Composite.Leafs;
+using DesignPatternsTutorials.Structural.Composite.Leafs.ComputerAssemble;
 
 #region [- Factory Method -]
 Console.WriteLine("Factory Method!");
@@ -35,6 +44,20 @@ Console.WriteLine(circle.Creator());
 
 IShapeFactory square = new SquareFactory();
 Console.WriteLine(square.Creator());
+
+ISmsManagerFactory smsKavehnegar = new KavehNegarFactory();
+Console.WriteLine(smsKavehnegar.Creator(new SmsDto()
+{
+    Message = "smsKavehnegar",
+    Reciver = "Me"
+}));
+
+ISmsManagerFactory smsTwilio = new TwilioFactory();
+Console.WriteLine(smsTwilio.Creator(new SmsDto()
+{
+    Message = "smsTwilio",
+    Reciver = "Me"
+}));
 
 // you can create and draw every shapes
 #endregion
@@ -64,6 +87,20 @@ Console.WriteLine(samsungClient.GetNormalPhoneDetails());
 Console.WriteLine(Environment.NewLine);
 Console.WriteLine("Builder!");
 Console.WriteLine("----------------------------------------------------------");
+
+Director director = new();
+
+ConcreteBuilderOne concreteBuilderOne = new();
+director.SetBuilder(concreteBuilderOne);
+director.Construct();
+var productOne = concreteBuilderOne.GetResult();
+productOne.Display();
+
+ConcreteBuilderTwo concreteBuilderTwo = new();
+director.SetBuilder(concreteBuilderTwo);
+director.Construct();
+var productTwo = concreteBuilderTwo.GetResult();
+productTwo.Display();
 
 var productBuilder = new ProductBuilder();
 var product1 = productBuilder.Build();
@@ -225,9 +262,62 @@ Console.WriteLine(Environment.NewLine);
 Console.WriteLine("Adapter!");
 Console.WriteLine("----------------------------------------------------------");
 Target target = new Adapter();
-target.Operation(); 
+target.Operation();
 #endregion
 
+Console.WriteLine(Environment.NewLine);
+Console.WriteLine("Composite!");
+Console.WriteLine("----------------------------------------------------------");
 
+AbstractComponent component = new Composite("Root Item", 
+    new AbstractComponent[]
+    {
+        new Leaf("Leaf 1"),
+        new Composite("Composite 1", new AbstractComponent[]
+        {
+            new Leaf("Leaf 1-1"),
+            new Leaf("Leaf 1-2"),
+            new Composite("Composite 1-1", new AbstractComponent[]
+            {
+                new Leaf("Leaf 1-1-1"),
+                new Composite("empty Composite", new AbstractComponent[]{})
+            })
+        }),
+        new Composite("Composite 2", new AbstractComponent[]
+        {
+            new Leaf("Leaf 2-1"),
+            new Leaf("Leaf 2-2"),
+            new Leaf("Leaf 2-3"),
+            new Leaf("Leaf 2-4"),
+            new Composite("Composite 2-1", new AbstractComponent[]
+            {
+                new Leaf("Leaf 2-1-1"),
+                new Leaf("Leaf 2-2-1"),
+                new Composite("empty Composite", new AbstractComponent[]{})
+            })
+        })
+    });
+component.Display(1);
+
+ComputerAssembleComponent computer = new ComputerAssembleComposite("Computer",
+    new ComputerAssembleComponent[]
+    {
+        new ComputerAssembleComposite("Cabinet",
+            new ComputerAssembleComponent[]
+            {
+                new ComputerAssembleLeaf("Hard Disk"),
+                new ComputerAssembleComposite("Mother Board", new ComputerAssembleComponent[]
+                {
+                    new ComputerAssembleLeaf("CPU"),
+                    new ComputerAssembleLeaf("RAM")
+                })
+            }),
+        new ComputerAssembleComposite("Peripherals", new ComputerAssembleComponent[]
+        {
+            new ComputerAssembleLeaf("Keyboard"),
+            new ComputerAssembleLeaf("Mouse")
+        })
+    });
+computer.Display(1);
 
 Console.ReadKey();

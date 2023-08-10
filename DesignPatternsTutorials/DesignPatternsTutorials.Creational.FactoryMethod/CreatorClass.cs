@@ -1,4 +1,5 @@
 ﻿using DesignPatternsTutorials.Creational.FactoryMethod.ConcreteProduct;
+using DesignPatternsTutorials.Creational.FactoryMethod.Product;
 
 namespace DesignPatternsTutorials.Creational.FactoryMethod
 {
@@ -8,6 +9,12 @@ namespace DesignPatternsTutorials.Creational.FactoryMethod
         {
              var factory = shapeFactory.CreateShape();
              return factory.Draw();
+        }
+
+        public static string Creator(this ISmsManagerFactory smsManagerFactory, SmsDto dto)
+        {
+            var factory = smsManagerFactory.CreateManager();
+            return factory.Send(dto);
         }
     }
 }

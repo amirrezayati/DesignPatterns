@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A28WqrNa84VL4tAbrAiUuYiIw/WKDj3uv3JPVk4/vqQA4lRBLaV8DektdH2tNZUm/T/aPH/kMQQuSPx4uCXzBw==",
+  "dgSpecHash": "hNjsmvhY53Y+TofCzWuAhyrHEUAGuLyTtn+aK4rYyxA47UDGhH14W2WZwvD9YmHIrD6+VROyrA59Q9Hkk7rvtw==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj",
+  "projectFilePath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Creational.AbstractFactory\\DesignPatternsTutorials.Creational.AbstractFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

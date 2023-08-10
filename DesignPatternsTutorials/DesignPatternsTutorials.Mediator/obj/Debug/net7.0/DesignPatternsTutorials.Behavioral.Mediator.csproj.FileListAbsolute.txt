@@ -10,3 +10,15 @@ C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediato
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\refint\DesignPatternsTutorials.Behavioral.Mediator.dll
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.pdb
 C:\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\ref\DesignPatternsTutorials.Behavioral.Mediator.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.deps.json
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\bin\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.csproj.AssemblyReference.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.AssemblyInfoInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.AssemblyInfo.cs
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.csproj.CoreCompileInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\refint\DesignPatternsTutorials.Behavioral.Mediator.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\DesignPatternsTutorials.Behavioral.Mediator.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Mediator\obj\Debug\net7.0\ref\DesignPatternsTutorials.Behavioral.Mediator.dll

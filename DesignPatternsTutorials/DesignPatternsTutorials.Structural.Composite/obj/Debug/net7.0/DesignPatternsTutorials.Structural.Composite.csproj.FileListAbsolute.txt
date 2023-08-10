@@ -1,0 +1,12 @@
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Composite.deps.json
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Composite.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\bin\Debug\net7.0\DesignPatternsTutorials.Structural.Composite.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Composite.csproj.AssemblyReference.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Composite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Composite.AssemblyInfoInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Composite.AssemblyInfo.cs
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Composite.csproj.CoreCompileInputs.cache
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Composite.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\obj\Debug\net7.0\refint\DesignPatternsTutorials.Structural.Composite.dll
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\obj\Debug\net7.0\DesignPatternsTutorials.Structural.Composite.pdb
+E:\Samples\GitHub\DesignPatterns\DesignPatternsTutorials\DesignPatternsTutorials.Structural.Composite\obj\Debug\net7.0\ref\DesignPatternsTutorials.Structural.Composite.dll
