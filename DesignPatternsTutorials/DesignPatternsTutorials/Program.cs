@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+#region [- Using -]
 using DesignPatternsTutorials.Structural.Adapter.Targets;
 using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.ConcreteHandlers;
 using DesignPatternsTutorials.Behavioral.ChainOfResponsibility.Handlers;
@@ -31,7 +32,8 @@ using DesignPatternsTutorials.Structural.Composite.Components.ComputerAssemble;
 using DesignPatternsTutorials.Structural.Composite.Composites;
 using DesignPatternsTutorials.Structural.Composite.Composites.ComputerAssemble;
 using DesignPatternsTutorials.Structural.Composite.Leafs;
-using DesignPatternsTutorials.Structural.Composite.Leafs.ComputerAssemble;
+using DesignPatternsTutorials.Structural.Composite.Leafs.ComputerAssemble; 
+#endregion
 
 #region [- Factory Method -]
 Console.WriteLine("Factory Method!");
@@ -265,11 +267,12 @@ Target target = new Adapter();
 target.Operation();
 #endregion
 
+#region [- Composite -]
 Console.WriteLine(Environment.NewLine);
 Console.WriteLine("Composite!");
 Console.WriteLine("----------------------------------------------------------");
 
-AbstractComponent component = new Composite("Root Item", 
+AbstractComponent component = new Composite("Root Item",
     new AbstractComponent[]
     {
         new Leaf("Leaf 1"),
@@ -318,6 +321,7 @@ ComputerAssembleComponent computer = new ComputerAssembleComposite("Computer",
             new ComputerAssembleLeaf("Mouse")
         })
     });
-computer.Display(1);
+computer.Display(1); 
+#endregion
 
 Console.ReadKey();
