@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ua220IYHESiZCVNAl74gOwM8mV0YoN9jTrRkfEdOnC7Nv1WSE2UMoKjSfuMllekSwh4DjY1RlC87eiqJ9j4tg==",
+  "dgSpecHash": "zAoqNvXHjTWP6031xEa1l52xjXOkrZvM0IGacfHGzoyzSLbxtarGTP+2wHmzA0nYPq71kT4JCd37kKXc7KsOLQ==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj",
+  "projectFilePath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
