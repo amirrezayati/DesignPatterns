@@ -5,6 +5,11 @@ namespace DesignPatternsTutorials.Behavioral.ChainOfResponsibility.ConcreteHandl
 
 public class ActiveUser : TakeTaxiHandler
 {
+    /// <summary>
+    /// HandleRequest
+    /// </summary>
+    /// <param name="request"></param>
+    /// <returns></returns>
     public override ResponseContext HandleRequest(RequestContext request)
     {
         if (_successor != null && request.UserId is 1)
