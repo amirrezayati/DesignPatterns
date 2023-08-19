@@ -8,8 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Subjects\" />
-    <Folder Include="Proxies\" />
-    <Folder Include="RealSubjects\" />
   </ItemGroup>
 
 </Project>

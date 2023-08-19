@@ -19,6 +19,7 @@
     <ProjectReference Include="..\DesignPatternsTutorials.Strategy\DesignPatternsTutorials.Behavioral.Strategy.csproj" />
     <ProjectReference Include="..\DesignPatternsTutorials.Structural.Composite\DesignPatternsTutorials.Structural.Composite.csproj" />
     <ProjectReference Include="..\DesignPatternsTutorials.Structural.Decorator\DesignPatternsTutorials.Structural.Decorator.csproj" />
+    <ProjectReference Include="..\DesignPatternsTutorials.Structural.Proxy\DesignPatternsTutorials.Structural.Proxy.csproj" />
   </ItemGroup>
 
 </Project>

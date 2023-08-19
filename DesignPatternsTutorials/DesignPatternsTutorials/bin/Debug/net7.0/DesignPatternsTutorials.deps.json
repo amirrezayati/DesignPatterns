@@ -18,7 +18,8 @@
           "DesignPatternsTutorials.Creational.Singleton": "1.0.0",
           "DesignPatternsTutorials.Structural.Adapter": "1.0.0",
           "DesignPatternsTutorials.Structural.Composite": "1.0.0",
-          "DesignPatternsTutorials.Structural.Decorator": "1.0.0"
+          "DesignPatternsTutorials.Structural.Decorator": "1.0.0",
+          "DesignPatternsTutorials.Structural.Proxy": "1.0.0"
         },
         "runtime": {
           "DesignPatternsTutorials.dll": {}
@@ -77,6 +78,11 @@
       "DesignPatternsTutorials.Structural.Decorator/1.0.0": {
         "runtime": {
           "DesignPatternsTutorials.Structural.Decorator.dll": {}
+        }
+      },
+      "DesignPatternsTutorials.Structural.Proxy/1.0.0": {
+        "runtime": {
+          "DesignPatternsTutorials.Structural.Proxy.dll": {}
         }
       }
     }
@@ -138,6 +144,11 @@
       "sha512": ""
     },
     "DesignPatternsTutorials.Structural.Decorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternsTutorials.Structural.Proxy/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

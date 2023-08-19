@@ -33,6 +33,9 @@ using DesignPatternsTutorials.Structural.Composite.Composites;
 using DesignPatternsTutorials.Structural.Composite.Composites.ComputerAssemble;
 using DesignPatternsTutorials.Structural.Composite.Leafs;
 using DesignPatternsTutorials.Structural.Composite.Leafs.ComputerAssemble;
+using DesignPatternsTutorials.Structural.Proxy.Proxies;
+using DesignPatternsTutorials.Structural.Proxy.Subjects;
+
 #endregion
 
 #region Patterns
@@ -324,7 +327,16 @@ ComputerAssembleComponent computer = new ComputerAssembleComposite("Computer",
         })
     });
 computer.Display(1);
-#endregion 
+#endregion
+
+#region [- Proxy -]
+Console.WriteLine(Environment.NewLine);
+Console.WriteLine("Proxy!");
+Console.WriteLine("----------------------------------------------------------");
+
+ISubject subject = new Proxy();
+subject.DoAction();
+#endregion
 
 #endregion
 

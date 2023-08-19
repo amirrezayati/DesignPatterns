@@ -111,6 +111,16 @@
         "runtime": {
           "bin/placeholder/DesignPatternsTutorials.Structural.Decorator.dll": {}
         }
+      },
+      "DesignPatternsTutorials.Structural.Proxy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsTutorials.Structural.Proxy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsTutorials.Structural.Proxy.dll": {}
+        }
       }
     }
   },
@@ -169,6 +179,11 @@
       "type": "project",
       "path": "../DesignPatternsTutorials.Structural.Decorator/DesignPatternsTutorials.Structural.Decorator.csproj",
       "msbuildProject": "../DesignPatternsTutorials.Structural.Decorator/DesignPatternsTutorials.Structural.Decorator.csproj"
+    },
+    "DesignPatternsTutorials.Structural.Proxy/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsTutorials.Structural.Proxy/DesignPatternsTutorials.Structural.Proxy.csproj",
+      "msbuildProject": "../DesignPatternsTutorials.Structural.Proxy/DesignPatternsTutorials.Structural.Proxy.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -183,7 +198,8 @@
       "DesignPatternsTutorials.Creational.Singleton >= 1.0.0",
       "DesignPatternsTutorials.Structural.Adapter >= 1.0.0",
       "DesignPatternsTutorials.Structural.Composite >= 1.0.0",
-      "DesignPatternsTutorials.Structural.Decorator >= 1.0.0"
+      "DesignPatternsTutorials.Structural.Decorator >= 1.0.0",
+      "DesignPatternsTutorials.Structural.Proxy >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -249,6 +265,9 @@
             },
             "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj": {
               "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Decorator\\DesignPatternsTutorials.Structural.Decorator.csproj"
+            },
+            "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Proxy\\DesignPatternsTutorials.Structural.Proxy.csproj": {
+              "projectPath": "E:\\Samples\\GitHub\\DesignPatterns\\DesignPatternsTutorials\\DesignPatternsTutorials.Structural.Proxy\\DesignPatternsTutorials.Structural.Proxy.csproj"
             }
           }
         }
